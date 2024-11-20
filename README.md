@@ -20,8 +20,8 @@
 | Hands-on Investigations: Ransomware Edition | Tue, Nov 19, 2024, 1:00 PM–2:00 PM |
 | Visibility and Control Bootcamp | Tue, Nov 19, 2024, 6:00 PM–7:00 PM |
 | FORENSICS@NIST 2024 | Tue, Nov 19, 2024, 9:30 PM-6:00 AM |
-| CNAPP CTF | Wed, Nov 20, 2024, 3:00 AM–5:00 AM |
-| FORENSICS@NIST 2024 | Wed, Nov 20, 2024, 9:30 PM-6:00 AM |
+| CNAPP CTF (x) | Wed, Nov 20, 2024, 3:00 AM–5:00 AM |
+| FORENSICS@NIST (x) 2024 | Wed, Nov 20, 2024, 9:30 PM-6:00 AM |
 | Enterprise IoT Security Hands-On Workshop | Thu, Nov 21, 2024, 6:00 PM–7:00 PM |
 | Shift Left Bootcamp | Tue, Nov 26, 2024, 6:00 PM–7:00 PM |
 | Unmasking Threats: How Red Teaming exposes your weak spots | Wed, Nov 27, 2024, 10:00 PM–Thu, Nov 28, 2024, 12:00 AM |
